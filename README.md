@@ -5,5 +5,5 @@
 - 🔫 Shoot 'em  ║[Play](https://thythal.itch.io/shoot-em)║
 - 💎 Match 3  ║[Source](https://github.com/ThyThal/Match-3-Chained-Edition)║
 - 🚁 Arcade Helicopter Simulator  ║[Source](https://github.com/ThyThal/MSVJ-2-Helicoptero)║
-- - 🌐 Virus Attack  ║[Source](https://github.com/ThyThal/Virus-Attack)║
+- 🌐 Virus Attack  ║[Source](https://github.com/ThyThal/Virus-Attack)║
 
