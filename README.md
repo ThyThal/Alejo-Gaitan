@@ -1,1 +1,1 @@
-- 👨‍💻 Find all my games in my [Personal Portfolio](https://thythal.github.io/)
+- 👨‍💻 Pixel Rogue [{Play}](https://thythal.itch.io/pixel-rogue) [{Play}](https://github.com/ThyThal/Pixel-Rogue)
