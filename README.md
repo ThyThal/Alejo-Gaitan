@@ -1,1 +1,1 @@
-- 👨‍💻 Pixel Rogue >> [{Play}](https://thythal.itch.io/pixel-rogue) || [{Source}](https://github.com/ThyThal/Pixel-Rogue)
+- 👨‍💻 Pixel Rogue  ║[{Play}](https://thythal.itch.io/pixel-rogue) || [{Source}](https://github.com/ThyThal/Pixel-Rogue)║
