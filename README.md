@@ -1,6 +1,6 @@
 
 [Proyectos Grupales]
-- 🍳 (GGJ 2022) Lost in the Attick  ║[Play](https://thythal.itch.io/stewed-and-screwed) ≡ [Source](https://github.com/LucasGenovese/Game-Jam-2022)║
+- 🍳 (GGJ 2022) Stewed & Screwed  ║[Play](https://thythal.itch.io/stewed-and-screwed) ≡ [Source](https://github.com/LucasGenovese/Game-Jam-2022)║
 - 🎃 (GGJ 2021) Lost in the Attick  ║[Play](https://diegogandolfo.itch.io/lost-in-the-attick) ≡ [Source](https://github.com/ThyThal/Lost-In-The-Attick)║
 - 🚁 Arcade Helicopter Simulator    ║[Source](https://github.com/ThyThal/MSVJ-2-Helicoptero)║
 
